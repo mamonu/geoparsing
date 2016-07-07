@@ -7,7 +7,7 @@
 library(RJSONIO)
 library(RCurl)
 
-setwd("E:/FishNet2GeoRef")
+setwd("/home/bigdata/scripts/geoparsing")
 
 INPUTFILENAME="glc_in.csv"
 OUTPUTFILENAME="glc_out.csv"
