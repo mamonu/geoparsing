@@ -1,0 +1,6 @@
+InstitutionCode,CollectionCode,CatalogNumber,IndividualCount,ScientificName,Family,PreparationType,Tissues,Latitude,Longitude,CoordinateUncertaintyInMeters,HorizontalDatum,Country,StateProvince,County,Locality,YearCollected,MonthCollected,DayCollected,Collector
+NCSM,FISH,5304,6 (70% ethanol),Pteronotropis euryzonus,Cyprinidae,6 (70% ethanol),,32.4007988,-85.25930023,,WGS84,United States,Alabama,Russell,"Adams Branch, 3.0 road miles WSW junction County Highway 32 and Rt. 80 on 32, 4.75 air miles WSW Crawford, (T17N, R28E, Sec. 32)",1968,5,23,FF Snelson
+CU,CUMV-Fish,72257,2,Fundulus euryzonus,Fundulidae,fluid,,30.888705,-91.847668,,,USA,Louisiana,East Feliciana,"Amite R. at LA 10 crossing, 4 mi. W of Darlington on LA Hwy 10",1990,3,23,"JM Humphries, PH Wimberger, RD Normark,*"
+CU,CUMV-Fish,28346,1,Notropis euryzonus,Cyprinidae,fluid,,,,,,USA,Alabama,Lee,"Uchee Cr., trib.of Chattahoochee R., 0.7 mi. E of Marvyn",1949,6,12,"RD Suttkus, CF Cole, RH Gibbs"
+CU,CUMV-Fish,13983,5,Notropis euryzonus,Cyprinidae,fluid,,,,,,USA,Alabama,Russell,"Trib. of Uchee Cr., 3.1 mi. E of Marvyn",1948,3,24,"EC Raney, RD Suttkus, LJ Kezer"
+CU,CUMV-Fish,14316,43,Notropis euryzonus,Cyprinidae,fluid,,,,,,USA,Alabama,Russell,"Trib. of Little Uchee Cr., 0.9 mi. E of Crawford on Rt.80",1948,3,24,"EC Raney, RD Suttkus, LJ Kezer"
